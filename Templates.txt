@@ -1,2 +1,2 @@
 http://pixel-mafia.com/demo/html-templates/aurel/
-http://pixel-mafia.com/demo/html-templates/aurel/gallery_masonry.html
+http://pixel-mafia.com/demo/html-templates/aurel/gallery_masonry.htm
