@@ -2,7 +2,7 @@
 
 return [
     'project_id' => '67598601',
-    'api_key' => '1TeMTgOojP20TzKiMKNutUTHJgsouCS5',
+    'api_key' => 'Zd6oCFXf1onaFMCjKgbhWbGiAIbjehWN',
     /*
     |--------------------------------------------------------------------------
     | Application Name

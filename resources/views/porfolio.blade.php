@@ -38,7 +38,6 @@
     </div>
 </script>
 <script type="text/javascript" src="{{URL::asset('js/be.js')}}"></script>
-<script type="text/javascript" src="{{URL::asset('Grid-Gallery-Lightbox/js/grid-gallery.min.js')}}"></script>
 <script type="text/javascript" src="{{URL::asset('js/porfolio.js?v=1.0')}}"></script>
 <script type="text/javascript">
     porfolio.init({
