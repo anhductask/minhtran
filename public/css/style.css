@@ -520,6 +520,7 @@ a.simulate-hover:before { display: none; }
     top: 50%;
     position: fixed;
     z-index: 9999;
+    transform: none !important;
 }
 
 #logo img { display: none; }
